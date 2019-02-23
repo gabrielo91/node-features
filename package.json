@@ -1,0 +1,19 @@
+{
+  "name": "node-features",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielo91/node-features.git"
+  },
+  "author": "gabrielo_9103@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielo91/node-features/issues"
+  },
+  "homepage": "https://github.com/gabrielo91/node-features#readme"
+}
